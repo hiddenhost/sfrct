@@ -32,7 +32,7 @@ export default function TeamPage() {
 
             {/* Name */}
             <h3 className="text-xl sm:text-2xl md:text-3xl lg:text-4xl font-bold text-gray-800 mb-1 sm:mb-2">
-              अनुराग सिंह
+              अनुराज सिंह
             </h3>
 
             {/* Phone */}
