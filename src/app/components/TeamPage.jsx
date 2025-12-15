@@ -46,6 +46,84 @@ export default function TeamPage() {
             </p>
           </div>
         </div>
+
+                
+       <div className="max-w-7xl mx-auto px-4 py-10">
+  {/* Grid Wrapper */}
+  <div className="grid grid-cols-3 gap-6">
+
+    {/* Card 1 */}
+    <div className="flex justify-center">
+      <div className="text-center">
+        <div className="relative inline-block mb-4">
+          <div className="w-36 h-36 sm:w-44 sm:h-44 md:w-52 md:h-52 lg:w-60 lg:h-60 rounded-full bg-gradient-to-br from-orange-100 to-orange-50 overflow-hidden border-4 md:border-6 border-white shadow-lg">
+            <img
+              src="/Rakhi_chauhan.jpeg"
+              alt="राखी चौहान"
+              className="w-full h-full object-cover"
+            />
+          </div>
+        </div>
+
+        <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-gray-800">
+          राखी चौहान
+        </h3>
+        <p className="text-sm sm:text-base md:text-lg text-gray-600">
+          (सह-संस्थापक)
+        </p>
+      </div>
+    </div>
+
+    {/* Card 2 */}
+    <div className="flex justify-center">
+      <div className="text-center">
+        <div className="relative inline-block mb-4">
+          <div className="w-36 h-36 sm:w-44 sm:h-44 md:w-52 md:h-52 lg:w-60 lg:h-60 rounded-full bg-gradient-to-br from-orange-100 to-orange-50 overflow-hidden border-4 md:border-6 border-white shadow-lg">
+            <img
+              src="/Devendra'.jpeg"
+              alt="देवेन्द्र यादव"
+              className="w-full h-full object-cover"
+            />
+          </div>
+        </div>
+
+        <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-gray-800">
+          देवेन्द्र यादव
+        </h3>
+        <p className="text-sm sm:text-base md:text-lg text-gray-600">
+          (सह-संस्थापक)
+        </p>
+      </div>
+    </div>
+
+    {/* Card 3 */}
+    <div className="flex justify-center">
+      <div className="text-center">
+        <div className="relative inline-block mb-4">
+          <div className="w-36 h-36 sm:w-44 sm:h-44 md:w-52 md:h-52 lg:w-60 lg:h-60 rounded-full bg-gradient-to-br from-orange-100 to-orange-50 overflow-hidden border-4 md:border-6 border-white shadow-lg">
+            <img
+              src="/Surmesh.jpeg"
+              alt="सुरमेश यादव"
+              className="w-full h-full object-cover"
+            />
+          </div>
+        </div>
+
+        <h3 className="text-lg sm:text-xl md:text-2xl font-bold text-gray-800">
+          सुरमेश यादव
+        </h3>
+        <p className="text-sm sm:text-base md:text-lg text-gray-600">
+          (सह-संस्थापक)
+        </p>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+
+
+
       </div>
 
       <style jsx>{`
