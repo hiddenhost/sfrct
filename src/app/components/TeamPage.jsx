@@ -50,7 +50,8 @@ export default function TeamPage() {
                 
        <div className="max-w-7xl mx-auto px-4 py-10">
   {/* Grid Wrapper */}
-  <div className="grid grid-cols-3 gap-6">
+  <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+
 
     {/* Card 1 */}
     <div className="flex justify-center">

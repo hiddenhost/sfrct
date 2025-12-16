@@ -119,7 +119,7 @@ const Footer = () => {
       <div className="bg-zinc-900 py-6">
         <div className="max-w-7xl mx-auto px-6 flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-gray-400">
           <p>
-            Copyright © 2024 Fast Relief Charitable Trust All Rights Reserved Design By{' '}
+            Copyright © 2025 Fast Relief Charitable Trust All Rights Reserved Design By{' '}
             <a 
               href="https://abligtechnologies.com" 
               target="_blank" 
