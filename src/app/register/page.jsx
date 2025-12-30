@@ -629,7 +629,7 @@ Registration Date & Time: ${new Date().toLocaleString('en-IN', {
               />
               <span className="text-sm text-gray-700">
                 <span className="font-semibold text-orange-700">घोषणा *</span><br />
-                I have read the rules and regulations of FAST RELIEF CHARITABLE TEAM available on the website. I agree to all the terms and conditions. If I do not contribute regularly under the rules made by FRCT, then my nominee will not be able to Claim the financial help.
+                I have read the rules and regulations of FAST RELIEF CHARITABLE TEAM available on the website. I agree to all the terms and conditions. If I do not contribute regularly under the rules made by SFRCT, then my nominee will not be able to Claim the financial help.
               </span>
             </label>
           </div>

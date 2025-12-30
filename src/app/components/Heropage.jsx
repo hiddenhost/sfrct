@@ -14,7 +14,7 @@ export default function HomePage() {
     },
     {
       title: [
-        "फास्ट रिलीफ चेरिटेबल",
+        "सुपर फास्ट रिलीफ चेरिटेबल",
         "टीम (SFRCT) उत्तर प्रदेश",
         "Help For Helpless",
       ],
@@ -241,7 +241,7 @@ export default function HomePage() {
                 className="text-yellow-400 text-xs xs:text-sm sm:text-base md:text-lg lg:text-lg xl:text-xl mb-6 sm:mb-8 opacity-0 animate-fade-in-up leading-relaxed font-semibold"
                 style={{ animationDelay: "0.7s" }}
               >
-                द्वारा संचालित- फास्ट रिलीफ चेरिटेबल ट्रस्ट, रजि0न0 64/2025
+                द्वारा संचालित- सुपर फास्ट रिलीफ चेरिटेबल ट्रस्ट, रजि0न0 64/2025
               </p>
 
               <a

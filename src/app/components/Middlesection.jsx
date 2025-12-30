@@ -31,11 +31,9 @@ export default function FRCTHeroSection() {
           <p className="text-white text-base md:text-lg lg:text-xl font-semibold tracking-wide">
             IFSC - UTIB0005215
           </p>
+          
           <p className="text-white text-base md:text-lg lg:text-xl font-semibold tracking-wide">
-            Cust id - 979335991
-          </p>
-          <p className="text-white text-base md:text-lg lg:text-xl font-semibold tracking-wide">
-            BRANCH - MORADABAD
+            BRANCH - Noorpur, Bijnor
           </p>
         </div>
 

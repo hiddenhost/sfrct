@@ -59,7 +59,7 @@ export default function TeamPage() {
         <div className="relative inline-block mb-4">
           <div className="w-36 h-36 sm:w-44 sm:h-44 md:w-52 md:h-52 lg:w-60 lg:h-60 rounded-full bg-gradient-to-br from-orange-100 to-orange-50 overflow-hidden border-4 md:border-6 border-white shadow-lg">
             <img
-              src="/Rakhi_chauhan.jpeg"
+              src="/Rakhi-removebg-preview.png"
               alt="राखी चौहान"
               className="w-full h-full object-cover"
             />
